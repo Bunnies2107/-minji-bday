@@ -1,0 +1,1 @@
+MinjiDay is a fan-built website to celebrate Kim Minji's birthday! With a countdown timer, fan art gallery, birthday message wall, and surprise Easter egg, it brings the Bunny community together. Built with HTML/CSS and hosted on GitHub Pages, this site is a tribute to Minji’s special day.
